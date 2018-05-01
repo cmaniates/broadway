@@ -22,7 +22,7 @@ p {
   font-size: 14px;
 }
 
-a{
+a {
   font-size: 18px;
   color: white;
 }
@@ -30,6 +30,10 @@ a{
 .hero {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
+}
+
+.hero h2 {
+  font-size: 23px;
 }
 
 .footer {
